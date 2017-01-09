@@ -5,7 +5,7 @@ It contains the materials covered in the lab sessions.
 
   * [Main course webpage](http://homes.soic.indiana.edu/yye/lab/teaching/spring2017-I529/)
   * [Yuzhen Ye](http://homes.soic.indiana.edu/yye/lab/index.php)
-  * [Murat Ozturk](https://murat.littleblack.fish) (TA)
+  * [Murat Ozturk](http://murat.littleblack.fish) (TA)
 
 ### Topics
 
