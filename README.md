@@ -9,4 +9,6 @@ It contains the materials covered in the lab sessions.
 
 ### Topics
 
-Week 1 : [Computing resources](computing/)
+  * Week 1 : [Computing resources](computing/)
+  * Week 2 : [Introduction to R](R-intro/)
+  * Week 3 : [Introduction to Python](Python-intro/)
