@@ -59,5 +59,6 @@ To submit your work for this class, you will act as a developer and submit your 
  git push         # push th commit(s) into the upstream repository
 
  ```
+Of course, this is only the basic operation and it will be very beneficial to familiarize yourself with more advanced features of Git using various online tutorials.
 
 If you are using Windows or OS X, you can also use the graphical [GitHub Desktop](https://desktop.github.com/) interface.
