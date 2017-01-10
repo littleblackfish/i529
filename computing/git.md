@@ -1,6 +1,3 @@
-#### A Not-So-Brief Introduction to Github (and Github@IU)
-
-### Git Basics
 Git is a **version control system** that is widely used.
 Here are some tutorials to get you started :
 
@@ -14,7 +11,7 @@ You can always do `man giteveryday` or ` git help everyday` to see a summary of 
 
   * **repository** is a project database that stores the history and configuration of the project
   * [GitHub](https://www.github.com) is the free hosting site for git repositories
-  * [GitHub@IU](https://github.iu.edu/) is IU's version with additional benefits for students
+  * [GitHub@IU](https://github.iu.edu/) is IU's enterprise GitHub service with additional benefits for students
   * you can **fork** an existing repository which makes a new copy for you to modify
   * you can **clone** a remote repository to your local machine to work on it
   * after cloning a repository, you call the original repository **upstream**  
