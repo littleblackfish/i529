@@ -3,7 +3,7 @@
 This is the repository for the lab module of the **Machine Learning in Bioinformatics** course as thought by  in the Spring of 2017.
 It contains the materials covered in the lab sessions.
 
-  * [Main course webpage](http://homes.soic.indiana.edu/yye/lab/teaching/spring2017-I529/)
+  * [Main course webpage](http://homes.soic.indiana.edu/classes/spring2017/info/i529-yye/index.php)
   * [Yuzhen Ye](http://homes.soic.indiana.edu/yye/lab/index.php)
   * [Murat Ozturk](http://murat.littleblack.fish) (TA)
 
