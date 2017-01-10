@@ -2,7 +2,7 @@ Using machine learning methods with bioinformatics data tends to require large c
 In this class you are assumed to be familiar with working in a POSIX environment.
 If you would like a refresher, you can check out [this brief introduction](unix.md).
 
-### Computing resources at IU
+### Computing resources @ IU
 
 IU has a number of large scale computing resources, the most prevalent ones :
 
@@ -12,7 +12,7 @@ IU has a number of large scale computing resources, the most prevalent ones :
 
 If you have not used these computers before, you need to  [request access](https://access.iu.edu/Accounts/Create) to be able to log in.
 
-### Storage resources at IU
+### Storage resources @ IU
 
 Once you have access to these computers, you also get access to multiple storage spaces with different characteristics.
 
@@ -20,7 +20,7 @@ Once you have access to these computers, you also get access to multiple storage
   * **Scratch space** `/N/dc2/scratch/username` is for large working files
   * [SDA](https://kb.iu.edu/d/aiyi) for long term storage of large files
 
-### Available Software
+### Available Software @ IU
 
 A large number of software is maintained by IUTS.
 These are arranged into modules that you can load into your environment.
@@ -32,9 +32,9 @@ If you need software that is not already installed on the clusters, you can comp
 
 ### Job management
 
-When you are using large clusters like we have in IU, you usually cannot run your programs directly.
-You will have to prepare your work as jobs and submit them through the queue management system.
-We use [TORUE](https://kb.iu.edu/d/avmy) resource manager in IU clusters to manage shared computing resources.
+When you are using large clusters you usually cannot run your programs directly.
+You will have to prepare your work as job scripts and run them through the queue management system.
+We use [TORQUE](https://kb.iu.edu/d/avmy) resource manager in IU clusters to manage shared computing resources.
 
 The minimal operation of TORQUE involves you to understand :
 
@@ -47,7 +47,7 @@ The minimal operation of TORQUE involves you to understand :
   3. Cancelling jobs
     * `qdel jobid`  
 
-To make efficient use of computers you need to dig deeper.
+To make efficient use of the queues however you need to dig deeper.
 Each cluster has a number of queues with different characteristics, you can find such details in the KB pages for each cluster.  
 
 **RUNNING INTERACTIVE JOBS** to be added.
