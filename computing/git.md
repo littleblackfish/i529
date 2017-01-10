@@ -32,17 +32,17 @@ To submit your work for this class, you will act as a developer and submit your 
 
  2. Go to the [I529-Spring2017](https://github.iu.edu/I529-Spring2017) organization.
 
- 3. Create a repository called **I529-*username***.
+ 3. Create a repository called **I529-username**.
    * Replace *username* with your own username
-   * Make sure you make your repository **private** and select "Initialize the repository with a README"
-   * Make sure your repository sits under the I529-Spring2017 organization. If you are not in the organization, make sure you contact the TA (murat) ASAP so he can add you.
+   * Make sure you make your repository **private** and select **Initialize the repository with a README**
+   * Make sure your repository sits under the I529-Spring2017 organization. *(If you are not in the organization, make sure you contact the TA (murat) ASAP so he can add you.)*
 
  4. Clone your new repository to your local machine.
   * Use SSH or HTTPS, your preference
   * Find the URL by clicking the green "Clone or download" button. It will be similar to :          
-    * https://github.iu.edu/I529-Spring2017/I529-username.git
-    * git@github.iu.edu:I529-Spring2017/I529-username.git
-  * Clone the repository by typing e.g. `git clone https://github.iu.edu/I529-Spring2017/I529-username.git`
+    * [https://github.iu.edu/I529-Spring2017/I529-username.git]() for http
+    * [git@github.iu.edu:I529-Spring2017/I529-username.git]() for ssh
+  * Clone the repository by doing `git clone URL` *(replace URL with your repository's URL )*
 
 
  Your basic workflow working on your project then should look like this :
