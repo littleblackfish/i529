@@ -28,8 +28,8 @@ Claiming we 'use Linux', is a bit of a misconception in this sense, but more on 
 
 There are many ways to interact with the Linux kernel and each one of these these is called a **shell**.
 **Bash is by far the most common shell you'll find in a Linux system, and is fully POSIX compliant.**
-Once you are comfortable with bash, you are golden: It does not matter if there is Linux, MacOS or BSD running under the hood, whether it is a low-end music server or a supercomputer, bash is bash.
-Even if you run into a shell that is not bash, chances are it will be built on bash and will provide its basic functionality, and then some, just like bash provides basic POSIX functionality, and then some.
+Once you are comfortable with bash, you are golden: It does not matter if there is Linux, OS X or BSD running under the hood, whether it is an embedded device or a supercomputer, bash is bash.
+Even if you run into a shell that is not bash, chances are it will be built on bash and will provide its basic functionality, and then some, just like how bash provides basic POSIX functionality, and then some.
 
 Wrapping up, **hardware + kernel + shell = usable computer**.
 As a user, the only part you are dealing with is the shell.
