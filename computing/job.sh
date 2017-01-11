@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#PBS -q preempt
 #PBS -l nodes=1:ppn=1,walltime=00:00:05
 
 

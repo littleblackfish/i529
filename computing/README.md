@@ -55,6 +55,9 @@ You might be tempted to do this on the head nodes instead of submitting a job sc
 Although trivial work can be done on head nodes, anything that requires above 20 minutes of computer time should be done through an **interactive job**.
 You can use `qsub -I` with all the additional options you need to request an interactive session from the queue manager.
 
+Included in this repository are an example [job script](job.sh) and 2 simple programs.
+The job script simply runs the 2 *'Hello world!'* programs.
+Read through the comments in the job script and run this job on Karst.  
 
 ### Parallelization
 
