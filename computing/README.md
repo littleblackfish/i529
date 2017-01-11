@@ -48,9 +48,13 @@ The minimal operation of TORQUE involves you to understand :
     * `qdel jobid`  
 
 To make efficient use of the queues however you need to dig deeper.
-Each cluster has a number of queues with different characteristics, you can find such details in the KB pages for each cluster.  
+Each cluster has a number of queues with different characteristics, you can find queue details in [this  page](https://kb.iu.edu/d/avmy).
 
-**RUNNING INTERACTIVE JOBS** to be added.
+Every now and then you might need to work interactively on the cluster.
+You might be tempted to do this on the head nodes instead of submitting a job script.
+Although trivial work can be done on head nodes, anything that requires above 20 minutes of computer time should be done through an **interactive job**.
+You can use `qsub -I` with all the additional options you need to request an interactive session from the queue manager.
+
 
 ### Parallelization
 
