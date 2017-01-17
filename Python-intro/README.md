@@ -72,3 +72,12 @@ Using Jupyter notebooks, you can move your interactive iPython shell to your bro
 What makes Jupyter Notebooks even cooler is that you can also use them with other programming languages such as R and Julia.
 
 Although Jupyter Notebooks are arguably the best platform for scientific computing and data science, you might also opt to use one of the popular graphical interfaces such as [Spyder](https://www.enthought.com/products/canopy/).
+
+#### Example workflow
+
+Depending on how much time we have, we should go over a couple of examples that represent an everyday workflow
+
+  * Look at a [python program](argparse.py) with command line parameters using [argparse](https://docs.python.org/2/howto/argparse.html#id1)
+  * Magic running and using an interactive iPython shell
+  * Converting an iPython log to a Python program
+  * Doing the same or similiar in a Jupyter Notebook
