@@ -10,7 +10,7 @@ These days it is hard to come by a project that **does not** use Python or at le
 Having good command of Python is therefore a very valuable skill.  
 
 Python's syntax is very human friendly.
-As such it is an excellent choice for [literate programming](http://www.learnpython.org/).
+As such it is an excellent choice for [literate programming](https://en.wikipedia.org/wiki/Literate_programming).
 
 Although Python is not very fast by itself, it can easily interface with optimized C libraries, and has extensions (e.g. [cython](http://cython.org/), [pyrex](https://wiki.python.org/moin/Pyrex)) that can be used to write very high performance code in C-like syntax.
 With crafty usage of these features, Python can be used to tackle all but most computationally demanding problems.  
@@ -46,7 +46,7 @@ Although most of your assignments will require only the most basic understanding
 
 #### Popular libraries
 
-The strongest feature pf Python arguably is the wealth of high quality community driven libraries.
+The strongest feature of Python arguably is the wealth of high quality community driven libraries.
 The PyData community [keeps a list](http://pydata.org/downloads.html) of the most popular Data Science related Python tools.
 Some of the ones we might benefit from in this class are :
 
