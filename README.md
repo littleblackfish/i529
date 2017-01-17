@@ -1,5 +1,3 @@
-### Description
-
 This is the repository for the lab module of the **Machine Learning in Bioinformatics** course as thought by  in the Spring of 2017.
 It contains the materials covered in the lab sessions.
 
@@ -9,6 +7,6 @@ It contains the materials covered in the lab sessions.
 
 ### Topics
 
-  * Week 1 : [Computing resources](computing/)
-  * Week 2 : [Introduction to R](R-intro/)
-  * Week 3 : [Introduction to Python](Python-intro/)
+  * [Computing resources](computing/) at IU
+  * [Introduction to Python](Python-intro/)
+  * [Introduction to R](R-intro/)
