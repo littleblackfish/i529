@@ -44,6 +44,13 @@ Although most of your assignments will require only the most basic understanding
   * [Dive into Python](http://www.diveintopython.net/) if you code well in another language
 
 
+#### Installing Python
+
+Pyhton is already installed on all SoIC computers.
+
+The best way to install it on your own computer through the [Anaconda](https://www.continuum.io/downloads) package.
+Anaconda comes with a good number of libraries and a convenient manager (conda) to install more as you need.
+
 #### Popular libraries
 
 The strongest feature of Python arguably is the wealth of high quality community driven libraries.
@@ -56,6 +63,10 @@ Some of the ones we might benefit from in this class are :
   * [scikit-learn](http://scikit-learn.org/stable/) provides general purpose machine learning routines
   * [matplotlib](http://matplotlib.org/) provides plotting capabilities
   * [seaborn](http://seaborn.pydata.org/) provides even nicer plotting capabilities
+
+You can use either the Anaconda package manager (conda) or pip to install most Pyhthon libraries.
+If you are on a computer where you don't have root access (like SoIC computers) you can install packages in user mode by doing `pip install package --user`
+
 
 #### Development environments
 
