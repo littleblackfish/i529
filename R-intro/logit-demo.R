@@ -1,10 +1,10 @@
 #ref: http://www.ats.ucla.edu/stat/r/dae/logit.htm
-student <- read.csv("http://www.ats.ucla.edu/stat/data/binary.csv")
+student <- read.csv("binary.csv")
 student$rank <- factor(student$rank) #rank as categorical
 summary(student)
 
 #use family defines error distribution & model
-glm.out <- glm(admit ~ gre + gpa + rank, data=student, family=binomial(link=logit)) 
+glm.out <- glm(admit ~ gre + gpa + rank, data=student, family=binomial(link=logit))
 
 summary(glm.out)
 #intepret the coefficients, examples
