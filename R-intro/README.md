@@ -3,13 +3,13 @@ It is not as practical as Python for general purpose programming, but very intui
 
 #### Installing R
 
-R is installed on all SoIC computers so you can start it by typing `R`.
-R is also available as a module in IU clusters (i.e. [Karst](https://www.datacamp.com/)) and can be loaded by typing `module load curl java r`.
+R is installed on all SoIC computers (i.e. silo, tank) so you can start it by typing `R`.
+R is also available as a module on IU clusters (i.e. [Karst](https://www.datacamp.com/)) and can be loaded by typing `module load curl java r`.
 
-If you need to install R, you download it [here](https://cloud.r-project.org/).
+If you need to install R on your oen computer, you download it [here](https://cloud.r-project.org/).
 [CRAN](https://cran.r-project.org/) is a repository which you can use to install many R packages.
 This is similiar to the pip (or conda) package management system of Python.
-The [Bioconductor](https://bioconductor.org) project provides a lot of bioinformatics related tools beyond what is available from CRAN.
+The [Bioconductor](https://bioconductor.org) project provides a lot of bioinformatics related tools beyond what is available in CRAN.
 
 [RStudio](https://www.rstudio.com/) provides a graphical environment for R, much like Spyder for Python.
 You can also use R with Jupyter notebooks after installing the [R kernel for Jupyter](https://github.com/IRkernel/IRkernel).
@@ -42,7 +42,7 @@ We got some nice plots, let us walk through the well commented code to understan
 ### Fitting some lines
 
 If you cloned this repository, you should already have [lm-demo.R](lm-demo.R).
-This script uses [MASS](https://cran.r-project.org/web/packages/MASS/index.html) library.
+This script uses the [MASS](https://cran.r-project.org/web/packages/MASS/index.html) library.
 
 ### Fitting a logistic linear regression
 
