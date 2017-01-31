@@ -7,7 +7,7 @@ It uses interpolated Markov models (IMMs) to identify the coding regions and dis
 
 Note that Glimmer is installed on SoIC computers as a module so you need to do `module load glimmer` before you can use it.
 
-#### Using Glimmer
+## Using Glimmer
 
   1. Building the model using `build-icm`
     * Using known genes
