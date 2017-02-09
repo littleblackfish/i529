@@ -8,7 +8,7 @@ A hidden Markov model with M hidden states and an alphabet size of N will have t
   * MxM transition probabilities
   * MxN emission probabilities
 
-Your program should read these parameters file like [this](sample_parameters.dat).
+Your program should read these parameters file like [this](sample_parameters.dat), which represents the classical  fair/biased coin toss example. 
 
 Your program should also take an **observed sequence**.
 
