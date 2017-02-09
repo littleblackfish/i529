@@ -1,9 +1,9 @@
 In this lab session you are expected to implement the [viterbi algorithm](https://en.wikipedia.org/wiki/Viterbi_algorithm).
 
-The viterbi algorithm finds the maximum likelihood solution for a [hidden markov model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+The viterbi algorithm finds the maximum likelihood solution for a [hidden Markov model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 
-A hidden Markov model with M hidden states and an alphabet size of N will have these parameters  :
-  * **N** and **M**
+A hidden Markov model with will have these parameters  :
+  * **M** and **N**, number of states and size of alphabet
   * **M** initial probabilities
   * **MxM** transition probabilities
   * **MxN** emission probabilities
