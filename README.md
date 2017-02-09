@@ -11,3 +11,4 @@ It contains the materials covered in the lab sessions.
   * [Introduction to Python](Python-intro/)
   * [Introduction to R](R-intro/)
   * [Finding genes with Glimmer](Glimmer/)
+  * [Viterbi algorithm](viterbi/)
