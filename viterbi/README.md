@@ -8,12 +8,17 @@ A hidden Markov model with M hidden states and an alphabet size of N will have t
   * **MxM** transition probabilities
   * **MxN** emission probabilities
 
-Your program should read these parameters file like [this](sample_parameters.dat), which represents the classical  fair/biased coin toss example.
+#### Specifications
+Your program should :
 
-Your program should also take an **observed sequence**.
+  1. **Read parameters from a file** like [this](sample_parameters.dat), which represents the classical fair/biased coin toss example.
 
-Your program should return the **most likely hidden sequence**.
+  2. **Take an observed sequence** as input.
+
+  3. **Return the most likely hidden sequence** as output.
 
 You have 50 minutes.
+
+I will be walking around answering questions.
 
 Good luck.
