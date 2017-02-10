@@ -1,6 +1,6 @@
-In this lab session you are expected to implement the [viterbi algorithm](https://en.wikipedia.org/wiki/Viterbi_algorithm).
+In this lab session you are expected to implement the viterbi algorithm as described in the [lecture slides](http://homes.soic.indiana.edu/classes/spring2017/info/i529-yye/lectures/HMM.pdf).
 
-The viterbi algorithm finds the maximum likelihood solution for a [hidden Markov model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+The viterbi algorithm finds the maximum likelihood solution for a hidden Markov model.
 
 A hidden Markov model with will have these parameters  :
   * **M** and **N**, number of states and size of alphabet
@@ -18,6 +18,8 @@ Your program should :
   3. **Return the most likely hidden sequence** as output.
 
 You have 50 minutes.
+
+You can use the example in the slide #18 as a test case to test your program.
 
 I will be walking around answering questions.
 
