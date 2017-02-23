@@ -54,10 +54,21 @@ Of course we see mostly zeroes because the beginning of the chromosome does not 
   * The second line specifies the **names of the markers**.
   * The remaining lines specify the presence of those markers in each 200 base segment of the chromosome. 1 means present and 0 means not present.
 
-Once we have such a file, running ChromHMM is a single line operation such as :
+Once we have such a file, running the main ChromHMM module is a single line operation such as `LearnModel inputdir outputdir numstates assembly`. So we can do :
 
 ```
 java -jar ChromHMM.jar LearnModel SAMPLEDATA_HG18 test_output 4 hg18
 ```
 
-Where
+Where:
+
+  * **SAMPLEDATA_HG18** is the directory where we have the  input files
+  * **test_output** is the directory where we will write the oputput files
+  * **4** is the number of states in our model
+  * **hg18** is the name of the assembly we are using (the relevant files are in various folders CHROMSIZES,COORDS,ANCHORFILES)
+
+to run the program.
+
+### Output of ChromHMM
+
+ChromHMM conveniently summarizes in a html file in the output directory so we can visually take a look.
