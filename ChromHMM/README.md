@@ -6,7 +6,7 @@ Instead of sequence data, it uses experimental results mapping epigenomic (methy
   * [Project website](http://compbio.mit.edu/ChromHMM)
   * [Manual](http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf)
 
-** The main difference from previous HMMs we have seen  : **
+**The main difference from previous HMMs we have seen  :**
 
   * The alphabet size is 2 (binary) : each feature either exists or not
   * There are multiple 'tracks' (sequences, variables ..) : these are multiple experiments done on the same chromosome
