@@ -1,12 +1,10 @@
 In this lab we are taking a look at another HMM based tool, ChromHMM.
+ChromHMM uses a multivariate HMM model to discover epigenomic features on a given chromosome.
+Instead of sequence data, it uses experimental results mapping epigenomic (methylation, histone modification etc.) features to the chromosome.
 
   * [Project website](http://compbio.mit.edu/ChromHMM)
   * [Manual](http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf)
 
-### What ChromHMM does
-
-ChromHMM uses a multivariate HMM model to discover epigenomic features on a given chromosome.
-Instead of sequence data, it uses experimental results mapping epigenomic (methylation, histone modification etc.) features to the chromosome.
 
 ## The difference from previous HMMs we have seen
 
