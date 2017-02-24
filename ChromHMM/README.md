@@ -69,4 +69,4 @@ to run the program.
 
 ### Output of ChromHMM
 
-ChromHMM conveniently summarizes in a html file in the output directory so we can visually take a look.
+ChromHMM conveniently summarizes everything in a html file in the output directory so we can visually take a look.
