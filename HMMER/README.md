@@ -79,7 +79,7 @@ We can also build databases out of a bunch of profile-HMM models and query a sin
 Now that we already have two models, we can combine them by doing `cat globins4.hmm fn3.hmm > minidatabase` and convert this into a searchable database by doing `hmmpress minidatabase`.
 This will generate a bunch of binary files.
 We can now query a protein against this database using `hmmscan minidatabase 7LESS_DROME`.
-This is very useful if we have a large, possibly multidomain protein and we want to find out what kinds of domains might have. 
+This is very useful if we have a large, possibly multidomain protein and we want to find out what kinds of domains it might have. 
 
 ## Nucleic acids
 
