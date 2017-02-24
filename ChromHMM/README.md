@@ -1,4 +1,4 @@
-In this week we are taking a look at another HMM based tool, ChromHMM.
+In this lab we are taking a look at another HMM based tool, ChromHMM.
 
   * [Project website](http://compbio.mit.edu/ChromHMM)
   * [Manual](http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf)
