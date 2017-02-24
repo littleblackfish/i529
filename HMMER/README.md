@@ -4,7 +4,7 @@ HMMER is a very popular Profile Hidden Markov Model implementation.
   * [Webserver](https://www.ebi.ac.uk/Tools/hmmer/)
   * [Manual](http://eddylab.org/software/hmmer3/3.1b2/Userguide.pdf)
 
-### Profile-HMM
+### Profile-HMMs
 
 For a detailed description of profile-HMMs, check out chapter 5 of our textbook.
 For a brief description, check out [lecture slides](http://eddylab.org/software/hmmer3/3.1b2/Userguide.pdf).

@@ -1,22 +1,22 @@
-In this lab we are taking a look at another HMM based tool, ChromHMM.
+In this lab we are taking a look at another HMM based tool, **ChromHMM**.
+
 ChromHMM uses a multivariate HMM model to discover epigenomic features on a given chromosome.
 Instead of sequence data, it uses experimental results mapping epigenomic (methylation, histone modification etc.) features to the chromosome.
 
   * [Project website](http://compbio.mit.edu/ChromHMM)
   * [Manual](http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf)
 
-
-## The difference from previous HMMs we have seen
+** The main difference from previous HMMs we have seen  : **
 
   * The alphabet size is 2 (binary) : each feature either exists or not
   * There are multiple 'tracks' (sequences, variables ..) : these are multiple experiments done on the same chromosome
 
-### How to get ChromHMM
+### Installing ChromHMM
 
 ChromHMM is written in Java.
 Java is preferred for some projects because just like Python, users do not have to compile it, but it runs much faster compared to Python.
-*(It is however not quite as fast as native C/C++ and just almost as cumbersome to to code in.)*
-If we have java already installed, we can [download](http://compbio.mit.edu/ChromHMM/ChromHMM.zip), unzip and be ready to run ChromHMM by doing :
+*(It is however not quite as fast as native C/C++ and almost as cumbersome to to code.)*
+If we have java (runtime environment) already installed, we can [download](http://compbio.mit.edu/ChromHMM/ChromHMM.zip), unzip and be ready to run ChromHMM by doing :
 
 ```
 wget http://compbio.mit.edu/ChromHMM/ChromHMM.zip
@@ -24,7 +24,7 @@ unzip ChromHMM.zip
 cd ChromHMM
 ```
 
-### How to run ChromHMM
+### Running ChromHMM
 
 As usual, the detailed specifications on how to run ChromHMM can be found in the [manual](http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdfhttp://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf).
 
