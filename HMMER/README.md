@@ -73,5 +73,14 @@ We can simply do `phmmer HBB_HUMAN globins45.fa` to search for human $\beta$-glo
 The usage would be identical to phmmer, such as `jackhmmer HBB_HUMAN globins45.fa`
 Let us compare the outputs from phmmer and jackhmmer for the same query.
 
+## Doing the reverse
+
+We can also build databases out of a bunch of profile-HMM models and query a single protein against that.
+Now that we already have two models, we can combine them by doing `cat globins4.hmm fn3.hmm > minidatabase` and convert this into a searchable database by doing `hmmpress minidatabase`.
+This will generate a bunch of binary files.
+We can now query a protein against this database using `hmmscan minidatabase 7LESS_DROME`.
+This is very useful if we have a large, possibly multidomain protein and we want to find out what kinds of domains might have. 
+
+## Nucleic acids
+
 Finally, note that you can use hmmer similarly with DNA and RNA sequences.
- 
