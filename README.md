@@ -16,4 +16,4 @@ It contains the materials covered in the lab sessions.
     * [Multivariate HMMs with ChromHMM](ChromHMM/)
     * [Profile-HMMS with HMMER](HMMER/)
   * Expectation Maximization
-    * [Motif Discovery with MEME][MEME/]
+    * [Motif Discovery with MEME](MEME/)
