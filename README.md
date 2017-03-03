@@ -10,7 +10,10 @@ It contains the materials covered in the lab sessions.
   * [Computing resources](computing/) at IU
   * [Introduction to Python](Python-intro/)
   * [Introduction to R](R-intro/)
-  * [Finding genes with Glimmer](Glimmer/)
-  * [Viterbi algorithm](viterbi/)
-  * [Multivariate HMMs with ChromHMM](ChromHMM/)
-  * [Profile-HMMS with HMMER](HMMER/)
+  * Hidden Markov Models
+    * [Finding genes with Glimmer](Glimmer/)
+    * [Viterbi algorithm](viterbi/)
+    * [Multivariate HMMs with ChromHMM](ChromHMM/)
+    * [Profile-HMMS with HMMER](HMMER/)
+  * Expectation Maximization
+    * [Motif Discovery with MEME][MEME/]
