@@ -19,14 +19,12 @@ wget http://meme-suite.org/meme-software/4.11.3/meme_4.11.3.tar.gz
 tar zvxf meme_4.11.3.tar.gz
 cd meme_4.11.3
 ./configure --prefix=$HOME/meme --with-url=http://meme-suite.org --enable-build-libxml2 --enable-build-libxslt
-make
+make -j 4
 make test
 make install
 ```
 
-This is pretty straightforward in silo or tank since we already have all the prerequisites, but it takes a while.
-We could try `make -j 4` to compile in parallel.
-
+This is pretty straightforward in silo or tank since we already have all the prerequisites, although it might take a while if we are all doing it at the same time.
 Once this is done, we will have the meme executables in `~/meme/bin/`.
 Feel free to add this in your PATH or we can just write the full path every time we are using MEME.
 
