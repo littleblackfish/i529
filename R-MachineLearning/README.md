@@ -51,6 +51,8 @@ We will go over a [script](breastcancer.R) that attempts this task using various
   * bagging (bootstrap aggregating) (ipred->bagging)
   * SVM (e1071->tune)
 
+Once we train each classifier, we can compare them using [ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) plots. 
+
 ## Bayesian networks
 
 Learning a Bayesian network has two components :
