@@ -9,7 +9,9 @@ It contains the materials covered in the lab sessions.
 
   * [Computing resources](computing/) at IU
   * [Introduction to Python](Python-intro/)
-  * [Introduction to R](R-intro/)
+  * R
+    * [Introduction to R](R-intro/)
+    * [Machine Learning exercises with R](R-MachineLearning/)
   * Hidden Markov Models
     * [Finding genes with Glimmer](Glimmer/)
     * [Viterbi algorithm](viterbi/)
