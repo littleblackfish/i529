@@ -7,15 +7,17 @@ It contains the materials covered in the lab sessions.
 
 ### Topics
 
-  * [Computing resources](computing/) at IU
-  * [Introduction to Python](Python-intro/)
+  * [Computing resources](computing/) at IU *(week 1)*
+  * Pyhton
+    * [Introduction to Python](Python-intro/) *(week 2)*
+    * [Machine Learning excercises with Python](Python-MachineLearning/) *(week 12 - 14)*
   * R
-    * [Introduction to R](R-intro/)
-    * [Machine Learning exercises with R](R-MachineLearning/)
+    * [Introduction to R](R-intro/) *(week 3)*
+    * [Machine Learning exercises with R](R-MachineLearning/) *(week 11)*
   * Hidden Markov Models
-    * [Finding genes with Glimmer](Glimmer/)
-    * [Viterbi algorithm](viterbi/)
-    * [Multivariate HMMs with ChromHMM](ChromHMM/)
-    * [Profile-HMMS with HMMER](HMMER/)
+    * [Finding genes with Glimmer](Glimmer/) *(week 4)*
+    * [Viterbi algorithm](viterbi/) *(week 5)*
+    * [Multivariate HMMs with ChromHMM](ChromHMM/) *(week 6)*
+    * [Profile-HMMS with HMMER](HMMER/) *(week 7)*
   * Expectation Maximization
-    * [Motif Discovery with MEME](MEME/)
+    * [Motif Discovery with MEME](MEME/) *(week 8)*
