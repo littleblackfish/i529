@@ -14,7 +14,7 @@ This time we will walk through the process of obtaining, cleaning up and normali
 A copy of the [churn dataset](churn.csv) used in the write up is included in this repo for your convenience.
 
 During these two weeks I will also go over some basic concepts such as :
-  * [Cross validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+  * [Cross validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
   * [ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) and area under ROC
   * [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
   * Some other concepts regarding [evaluation of classifiers](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers)
