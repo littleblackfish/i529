@@ -1,10 +1,10 @@
 In the remaining weeks, we will do some machine learning exercises with Python.
 The main package we will be using is [scikit-learn](http://scikit-learn.org/).
-This is a very simple yet powerful machine learning framework for python.
-Because there are so many excellent tutorials on scikit-learn, I wanted to avoid inventing the wheel from scratch and decided to use some of the existing ones and will be emphasizing important points through experience.  
+This is the de facto standard machine learning framework for python.
+Because there are so many excellent tutorials on scikit-learn, I wanted to avoid reinventing the wheel from scratch and decided to use some of the existing ones. I will be emphasizing important points through experience.  
 
 We will start with the [scikit-learn basic tutorial](http://scikit-learn.org/stable/tutorial/basic/tutorial.html).
-Scikit-learn is famous for its excellent documentation which is a great source for machine learning in general.
+Scikit-learn is famous for its excellent documentation which is also a great resource for machine learning in general.
 This simple tutorial walks us through the organization of scikit-learn and introduces the generic methods `fit()` and `predict()` implemented for various classifiers.
 
 
