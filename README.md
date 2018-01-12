@@ -5,17 +5,17 @@ It contains the materials covered in the lab sessions.
   * [Yuzhen Ye](http://homes.soic.indiana.edu/yye/lab/index.php)
   * [Murat Ozturk](http://murat.littleblack.fish) (TA)
 
+
 ### Topics
 
   * [Computing resources](computing/) at IU *(week 1)*
-  * [Introduction to Python](Python-intro/) *(week 2)*
-  * [Introduction to R](R-intro/) *(week 3)*
+  * [Introduction to R](R-intro/) *(week 2)*
   * **Hidden Markov Models**
-    * [Finding genes with Glimmer](Glimmer/) *(week 4)*
-    * [Viterbi algorithm](viterbi/) *(week 5)*
-    * [Multivariate HMMs with ChromHMM](ChromHMM/) *(week 6)*
-    * [Profile-HMMS with HMMER](HMMER/) *(week 7)*
+    * [Finding genes with Glimmer](Glimmer/) *(week 3)*
+    * [Viterbi algorithm](viterbi/) *(week 4)*
+    * [Multivariate HMMs with ChromHMM](ChromHMM/) *(week 5)*
+    * [Profile-HMMS with HMMER](HMMER/) *(week 6)*
   * **Expectation Maximization**
-    * [Motif Discovery with MEME](MEME/) *(week 8)*
+    * [Motif Discovery with MEME](MEME/) *(week 7)*
   * [Classification exercises with R](R-MachineLearning/) *(week 11)*
-  * [Classification exercises with Python](Python-MachineLearning/) *(week 12 - 14)*
+  * [Classification exercises with Python](Python-MachineLearning/) *(week 12 - 13)*

@@ -30,7 +30,7 @@ To submit your work for this class, you will act as a developer and submit your 
  1. Go to [github.iu.edu](https://github.iu.edu/) and login using your IU username.
 (*You might need to activate your username if you haven't used GitHub@IU before*)
 
- 2. Go to the [I529-Spring2017](https://github.iu.edu/I529-Spring2017) organization.
+ 2. Go to the [I529-Spring2018](https://github.iu.edu/I529-Spring2018) organization.
 
  3. Create a repository called **I529-username**.
    * Replace *username* with your own username

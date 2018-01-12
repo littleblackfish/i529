@@ -6,11 +6,11 @@ If you would like a refresher, you can check out [this brief introduction](unix.
 
 IU has a number of large scale computing resources, the most prevalent ones :
 
-  * [Mason](https://kb.iu.edu/d/bbhh) is our large memory cluster, purpose built for genomics
-  * [Karst](https://kb.iu.edu/d/bezu) is our newest general purpose cluster
-  * [Bigred II](https://kb.iu.edu/d/bcqt) is our biggest computer
+  * [Carbonate](https://kb.iu.edu/d/aolp) is our large memory cluster
+  * [Karst](https://kb.iu.edu/d/bezu) is our high-throughput cluster
+  * [Bigred II](https://kb.iu.edu/d/bcqt) is our high-performance cluster
 
-If you have not used these computers before, you need to  [request access](https://access.iu.edu/Accounts/Create) to be able to log in.
+If you have not used these computers before, you need to  [request access](https://access.iu.edu/Accounts/Create) before you can log in.
 
 ### Storage resources @ IU
 
@@ -77,3 +77,13 @@ A job submitted with `qsub -l nodes=4:ppn=16` wil run in 4 nodes with 16 process
 
 Git is a version control system that helps you manage your work.
 We will be making use of git in this class, please go through [this tutorial](git.md) and familiarize yourself with it.
+
+### Databases
+
+  * [Genbank](https://www.ncbi.nlm.nih.gov/genbank/)
+  * [BLAST](https://blast.ncbi.nlm.nih.gov)
+  * [Uniprot](http://www.uniprot.org/)
+  * [PDB](http://www.rcsb.org/pdb/home/home.do)
+  * [Pfam](http://pfam.xfam.org/)
+  * [Entrez](https://www.ncbi.nlm.nih.gov/gquery/gquery.fcgi)
+  * [EBI](https://www.ebi.ac.uk/services) resources
