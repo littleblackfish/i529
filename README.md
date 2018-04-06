@@ -1,4 +1,4 @@
-This is the repository for the lab module of the **Machine Learning for Bioinformatics** course as thought in the Spring of 2017.
+This is the repository for the lab module of the **Machine Learning for Bioinformatics** course as thought in the Spring of 2018.
 It contains the materials covered in the lab sessions.
 
   * [Main course webpage](http://homes.soic.indiana.edu/classes/spring2018/info/i529-yye/index.php)
@@ -17,5 +17,5 @@ It contains the materials covered in the lab sessions.
     * [Profile-HMMS with HMMER](HMMER/) *(week 6)*
   * **Expectation Maximization**
     * [Motif Discovery with MEME](MEME/) *(week 7)*
-  * [Classification exercises with R](R-MachineLearning/) *(week 11)*
-  * [Classification exercises with Python](Python-MachineLearning/) *(week 12 - 13)*
+  * [Supervised learning with scikit-learn](Python-MachineLearning/) *(week 11)*
+  * [Deep learning with Keras](Keras/) *(week 13)*
